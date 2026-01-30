@@ -10,6 +10,31 @@
 
 ---
 
+## 🎯 **Featured Project: GenAI Career Journey**
+
+### 🌟 [GenAI Career Journey](https://github.com/Vasanthsoundararajan2002/genai-career-journey)
+
+**My comprehensive documentation of learning Generative AI from scratch**
+
+A complete roadmap showing my transition from RPA Developer to GenAI Engineer
+- 📚 **Structured Learning Path**: From fundamentals to advanced AI concepts
+- 🛠️ **Hands-on Projects**: Real implementations with code and explanations
+- 📝 **Learning Resources**: Curated tutorials, courses, and documentation
+- 🎯 **Career Transition Guide**: Practical steps for RPA → GenAI shift
+- 💡 **Lessons Learned**: Mistakes, insights, and best practices
+
+**Why this matters**: This repository is a living document of my AI learning journey - showing not just what I've built, but how I learned to build it. Perfect for anyone looking to transition into GenAI.
+
+**Covers**:
+- 🤖 LLM Fundamentals & Fine-tuning
+- 🔍 RAG Systems & Vector Databases
+- 🎨 Multimodal AI (Vision + Text)
+- 📄 Document Intelligence & OCR
+- 🏗️ Production AI Architecture
+- 🔧 Prompt Engineering & Optimization
+
+---
+
 ## 💼 What I Do
 
 **Current Role**: Software Developer @ **Droidal** (1.4 years)  
@@ -51,7 +76,7 @@ ai_stack = {
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Other Featured Projects
 
 ### 1. 🤖 [FlowBot Automation Builder](https://github.com/Vasanthsoundararajan2002/flowbot-automation-builder)
 **Personal RPA prototype inspired by enterprise development**
@@ -122,8 +147,8 @@ Local RAG implementation with zero cloud dependency
 2025 Jan  → AI Pipelines & RAG
             (Gemini 2.0, Ollama, FAISS)
     ↓
-Current   → Production AI Integration
-            (Multimodal AI, Advanced document processing)
+Current   → GenAI Career Journey
+            (Documenting the complete learning path)
 ```
 
 ---
@@ -143,7 +168,7 @@ Complete pipelines: preprocessing → processing → post-processing → export 
 Master document intelligence & automation deeply rather than superficial knowledge
 
 ### 5. **Learning in Public**
-Each project builds on previous learnings, with clear explanations of trade-offs
+Each project builds on previous learnings, with clear explanations of trade-offs - documented in [GenAI Career Journey](https://github.com/Vasanthsoundararajan2002/genai-career-journey)
 
 ---
 
@@ -186,6 +211,7 @@ Each project builds on previous learnings, with clear explanations of trade-offs
 - 🔄 Advanced RAG architectures (hybrid search, re-ranking)
 - 🎨 Multimodal AI pipelines
 - 📈 Scaling production AI systems
+- 📚 Documenting everything in [GenAI Career Journey](https://github.com/Vasanthsoundararajan2002/genai-career-journey)
 
 **Next quarter:**
 - Multi-agent workflows
@@ -203,6 +229,7 @@ From my GitHub, you can see my progression:
 2. **Document Processing Basics** → Medical Pipeline demonstrates production AI integration
 3. **Novel Architectures** → Hybrid OCR shows systems thinking and innovation
 4. **AI Fundamentals** → RAG built from scratch shows deep understanding
+5. **Complete Documentation** → [GenAI Career Journey](https://github.com/Vasanthsoundararajan2002/genai-career-journey) ties it all together
 
 Each project solves real problems and explores new concepts.
 
@@ -236,6 +263,7 @@ Each project solves real problems and explores new concepts.
 - **Opportunities** in AI/ML applied to automation
 - **Open source** contributions in RPA/OCR space
 - **Networking** with AI engineers and researchers
+- **Mentorship** opportunities to help others transition to GenAI
 
 ---
 
@@ -245,6 +273,7 @@ Each project solves real problems and explores new concepts.
 - 📧 **Email**: [vasanthsoundararajan95@gmail.com](mailto:vasanthsoundararajan95@gmail.com)
 - 🏢 **Company**: [Droidal](https://droidal.com)
 - 📍 **Location**: India
+- 📚 **Learning Journey**: [GenAI Career Journey](https://github.com/Vasanthsoundararajan2002/genai-career-journey)
 
 ---
 
@@ -255,6 +284,7 @@ Each project solves real problems and explores new concepts.
 - 🔍 Can spot an OCR error from across the room
 - 🎨 Believe good UX is just as important for automation tools
 - 🧪 Build prototypes to understand concepts, not just use libraries
+- 📚 Document my learning journey publicly to help others
 
 ---
 
@@ -275,6 +305,8 @@ Each project solves real problems and explores new concepts.
 <div align="center">
 
 ### ⭐ If you find my work interesting, consider starring my repositories!
+
+### 📚 Check out my [GenAI Career Journey](https://github.com/Vasanthsoundararajan2002/genai-career-journey) to see how I learned all of this!
 
 **"Building the future of intelligent automation - one algorithm at a time"**
 
