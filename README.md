@@ -8,32 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-vasanthsoundararajan95@gmail.com-red?style=flat&logo=gmail)](mailto:vasanthsoundararajan95@gmail.com)
 [![Python](https://img.shields.io/badge/Python-Expert-green?style=flat&logo=python)](https://www.python.org/)
 
----
-
-## 🎯 **Featured Project: GenAI Career Journey**
-
-### 🌟 [GenAI Career Journey](https://github.com/Vasanthsoundararajan2002/genai-career-journey)
-
-**My comprehensive documentation of learning Generative AI from scratch**
-
-A complete roadmap showing my transition from RPA Developer to GenAI Engineer
-- 📚 **Structured Learning Path**: From fundamentals to advanced AI concepts
-- 🛠️ **Hands-on Projects**: Real implementations with code and explanations
-- 📝 **Learning Resources**: Curated tutorials, courses, and documentation
-- 🎯 **Career Transition Guide**: Practical steps for RPA → GenAI shift
-- 💡 **Lessons Learned**: Mistakes, insights, and best practices
-
-**Why this matters**: This repository is a living document of my AI learning journey - showing not just what I've built, but how I learned to build it. Perfect for anyone looking to transition into GenAI.
-
-**Covers**:
-- 🤖 LLM Fundamentals & Fine-tuning
-- 🔍 RAG Systems & Vector Databases
-- 🎨 Multimodal AI (Vision + Text)
-- 📄 Document Intelligence & OCR
-- 🏗️ Production AI Architecture
-- 🔧 Prompt Engineering & Optimization
-
----
 
 ## 💼 What I Do
 
@@ -75,6 +49,32 @@ ai_stack = {
 ```
 
 ---
+
+## 🎯 **Featured Project: GenAI Career Journey**
+
+### 🌟 [GenAI Career Journey](https://github.com/Vasanthsoundararajan2002/genai-career-journey)
+
+**My comprehensive documentation of learning Generative AI from scratch**
+
+A complete roadmap showing my transition from RPA Developer to GenAI Engineer
+- 📚 **Structured Learning Path**: From fundamentals to advanced AI concepts
+- 🛠️ **Hands-on Projects**: Real implementations with code and explanations
+- 📝 **Learning Resources**: Curated tutorials, courses, and documentation
+- 🎯 **Career Transition Guide**: Practical steps for RPA → GenAI shift
+- 💡 **Lessons Learned**: Mistakes, insights, and best practices
+
+**Why this matters**: This repository is a living document of my AI learning journey - showing not just what I've built, but how I learned to build it. Perfect for anyone looking to transition into GenAI.
+
+**Covers**:
+- 🤖 LLM Fundamentals & Fine-tuning
+- 🔍 RAG Systems & Vector Databases
+- 🎨 Multimodal AI (Vision + Text)
+- 📄 Document Intelligence & OCR
+- 🏗️ Production AI Architecture
+- 🔧 Prompt Engineering & Optimization
+
+---
+
 
 ## 🔥 Other Featured Projects
 
